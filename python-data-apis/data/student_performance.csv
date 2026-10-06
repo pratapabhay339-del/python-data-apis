@@ -1,0 +1,16 @@
+student_id,name,branch,attendance_percent,study_hours,assignments_completed,midterm_score,final_score
+1001,Aarav,CSE,92,6.5,9,78,86
+1002,Diya,CSE,88,5.0,8,72,79
+1003,Rohan,IT,76,3.5,6,61,68
+1004,Ananya,CSE,95,7.0,10,84,91
+1005,Kabir,AI,81,4.5,7,67,74
+1006,Meera,IT,90,6.0,9,76,83
+1007,Arjun,CSE,84,4.0,8,70,76
+1008,Isha,AI,97,8.0,10,89,94
+1009,Vihaan,IT,73,2.5,5,55,62
+1010,Saanvi,CSE,91,6.5,9,80,88
+1011,Aditya,AI,86,5.5,8,74,81
+1012,Navya,CSE,94,7.5,10,87,93
+1013,Raj,IT,79,3.0,6,59,65
+1014,Tanya,AI,89,5.0,8,71,78
+1015,Yash,CSE,83,4.5,7,65,72
